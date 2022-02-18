@@ -5,4 +5,7 @@
 # Animated Loader
 The simple code to make animated `Loader` using HTML & CSS.
 
+### Prerequisites
+- HTML
+- CSS
 
