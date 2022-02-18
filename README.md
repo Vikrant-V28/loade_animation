@@ -12,7 +12,7 @@ The simple code to make animated `Loader` using HTML & CSS.
 ### Output Screenshot
 <details><summary><b>Output 1</b></summary>
   <p align="center">
-    <a href="Outputs/output.png"><img src="" alt="output"></a>
+    <a href="Outputs/output.png"><img src="https://user-images.githubusercontent.com/85709371/154668390-fd318928-62e0-461a-885e-e5af526c0695.png" alt="output"></a>
   </p>
 </details>
 
