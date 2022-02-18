@@ -24,3 +24,5 @@ The simple code to make animated `Loader` using HTML & CSS.
 
 Visit <a href="https://vikrant-v28.github.io/animated_bulb/">Here</a>
 
+## *Author Name*
+[Vikrant](https://github.com/vikrant-v28)
